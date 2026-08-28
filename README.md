@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Yash1194/DSA/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Yash1194/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/Yash1194/DSA/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Yash1194/DSA/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
